@@ -1,2 +1,1 @@
-redirect: /tutorial/
-
+sreenath index page
