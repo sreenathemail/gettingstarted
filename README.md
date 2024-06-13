@@ -1,3 +1,3 @@
-# zul-m.github.io
+# sreenath
 
 My personal website
